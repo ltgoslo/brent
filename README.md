@@ -19,6 +19,6 @@ If you publish work that uses or references the data, please cite our [NODALIDA 
   title = {BRENT: Bidirectional Retrieval Enhanced Norwegian Transformer},
   booktitle = {Proceedings of the 24th Nordic Conference on Computational Linguistics},
   year = {2023},
-  address = {Torshavn, Pharoe Islands},
+  address = {Torshavn, Faroe Islands},
 }
 ```
